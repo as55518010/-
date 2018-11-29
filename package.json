@@ -1,0 +1,11 @@
+{
+  "name": "i_am_derrick",
+  "version": "1.0.0",
+  "description": "簡單製作切換頁",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick",
+  "license": "ISC"
+}
